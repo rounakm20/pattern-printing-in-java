@@ -1,4 +1,4 @@
-public class App {
+public class RecursiveRightTrianglePattern {
     
     public static void pattern1(int n) {
         if (n > 0) {
